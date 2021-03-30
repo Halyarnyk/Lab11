@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab_11.exe
+C:\Users\User\source\repos\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab_11.deps.json
+C:\Users\User\source\repos\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab_11.runtimeconfig.json
+C:\Users\User\source\repos\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab_11.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab_11.dll
+C:\Users\User\source\repos\Lab 9\Lab 9\bin\Debug\netcoreapp3.1\Lab_11.pdb
+C:\Users\User\source\repos\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab_11.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab_11.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab_11.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab_11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab_11.dll
+C:\Users\User\source\repos\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab_11.pdb
+C:\Users\User\source\repos\Lab 9\Lab 9\obj\Debug\netcoreapp3.1\Lab_11.genruntimeconfig.cache
